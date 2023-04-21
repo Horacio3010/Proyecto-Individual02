@@ -4,8 +4,8 @@
 
 
 
----Rol a desarrollar
-En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el
+### Introdución
+Análisis de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el
 comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante 
 considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios,
 identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
