@@ -1,78 +1,37 @@
-# Proyecto-TelecomArg
-
-## Análisis del comportamiento del sector de las telecomunicaciones a nivel nacional: Tendencias, desafíos y oportunidades
-
-
-
-### Introdución
-Análisis de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el
-comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante 
-considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios,
-identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
-
-Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide visualizar en un dashboard el siguiente KPI y establecer 3 KPIs adicionales 
-producto de su análisis:
-
-**Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. (Datos)
-
-Nota: En la sección de material de apoyo se puede encontrar más información sobre los KPIs.
-
-Propuesta de trabajo -requerimientos de aprobación-
+<h1 align='center'>
+ <b>PROYECTO INDIVIDUAL Nº2</b>
+</h1>
+ 
+# <h1 align="center">**`Analisis de las Telecomunicaciones en Argentina`**</h1>
 
 
---Análisis Exploratorio de los datos (Exploratory Data Analysis = EDA)
+## *Contexto*
 
-El reporte debe incluir un resumen de estadísticas descriptivas de los datasets, análisis univariados (por ejemplo, distribución de variables numéricas), 
-análisis bivariados (correlación entre variables numéricas y/o categóricas) y cualquier análisis que le ayude al mejor entendimiento de los datos (encontrar 
-patrones, outliers y/o anomalías, entre otros). El reporte debe presentarse en un notebook (.ipynb) con adecuado uso de markdowns y comentarios.
+Una empresa prestadora de servicios de telecomunicaciones nos ha encomendado un análisis exploratorio de los datos que permita reconocer el comportamiento a nivel nacional. Teniendo en cuenta los siguientes KPIs (Key Performance Indicator) podremos orientar a la empresa sobre como ofrecer una buena calidad en sus servicios, asi como identificar mercados a desarrollar, ademas de establecer soluciones especificas a los potenciales consumidores.
 
---Dashboard
+Los KPIs a desarrollar son:
 
-Debe ser funcional y coherente con el análisis y la historia que vayan a relatar. El archivo debe estar en su repositorio (.pbix, .py o el que aplique).
++ Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
++ Porcentaje de localidades con acceso a internet en zonas rurales y remotas
++ Velocidad promedio de conexión a internet en Argentina.
++ 
 
---KPIs
+## **Material Entregable**
 
-Se deben sugerir 3 KPIs y deben aparecer en el dashboard. Tenga en cuenta que deben tener relación con la historia que está contando. Asimismo, se espera 
-que en la presentación explique el análisis y la funcionalidad de los KPIs sugeridos.
+`Análisis Exploratorio de los datos`
 
-⚠️ Análisis ⚠️
+Dentro de este repositorio se encuentra la carpeta EDA que contiene archivos en formato .ipynb con el analisis de distintos datasets provistos por el Dataset Principal, donde se pueden observar análisis univariados (por ejemplo, distribución de variables numéricas), análisis bivariados (correlación entre variables numéricas y/o categóricas), outliers y la expresion grafica de algunos datos.
+  
+`Dashboard`
 
-No se calificará solamente la producción de gráficos con datos (dashboard), sino también los análisis y conclusiones que encuentren en ellos.
+Con formato .pbix, se encuentra el dashboard con el analisis grafico de las KPIs descritas anteriormente.
 
-Repositorio de GitHub
+`Resumen Ejecutivo`
 
-El repositorio debe contener un README principal donde se presente de forma general su proyecto. Presentar como propio el readme proporcionado por Henry será 
-considerado como insuficiente para cumplir con este requerimiento.
+Con formato .pdf, es un entregable ideal para presentar los resultados de los KPIs que se muestran en el dashboard. Es un documento conciso que incluye los resultados más relevantes y las conclusiones más importantes.
 
-PLUS
-Nota: la realización de los siguientes ítems no es intercambiable con los requerimientos mínimos establecidos en la sección anterior "Propuesta de trabajo". 
-Empiece con esta sección una vez haya cumplido con los requerimientos mínimos, a modo de desafiarse a usted mismo.
+## Fuentes:
 
-Redactar un reporte de análisis con base en sus dashboards e incluirlo en el readme de sus repositorios. También debe incluir el análisis y la funcionalidad de 
-los KPIs sugeridos.
+- [Dataset Principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API-
 
-Ejecutar scripts de python en la herramienta de visualización de datos escogida.
-
-Extraer los datos desde la API del sitio (no descarga de csv).
-
-Cruce de datos con datasets complementarios.
-*************************************************************************
-dataset principal: https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/
-
-Tablas a consultar:
-( x ) "Penetración de internet fijo (accesos por cada 100 hogares)", podemos identificar rápidamente qué provincias tienen las mayores tasas de penetración de internet
-fijo y cuáles necesitan mejorar. De esta forma, podemos establecer prioridades para enfocar los esfuerzos de la empresa.
-
-( x ) "Acceso a internet fijo por rangos de velocidad de bajada y provincia" permitirá a la empresa realizar un análisis más detallado de la calidad del servicio de 
-internet que ofrecen en cada provincia. Utilizando esta información, se pueden identificar áreas en las que se necesitan mejoras significativas.
-
-( x ) "Ingresos trimestrales por la prestación del servicio de internet fijo" permitirá evaluar la rentabilidad de la empresa y cómo esta varía a lo largo del tiempo.
-Esto ayudará a establecer objetivos realistas y planificar la estrategia de la empresa en consecuencia.
-
-( x ) "Velocidad media de bajada de internet fijo por provincia" permitirá a la empresa comparar su servicio de internet con el promedio del país y otras provincias.
-Esto les dará una idea de qué áreas necesitan mejorar en términos de velocidad de internet.
-
-( x ) "Total nacional de accesos a internet fijo por banda ancha y banda angosta" permitirá a la empresa identificar la tendencia en cuanto a la utilización de servicios
-de banda ancha y banda angosta, lo que les permitirá diseñar su estrategia de servicios en consecuencia.
-
-*************************************************************************
+- [Dataset Secundario ](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165)
