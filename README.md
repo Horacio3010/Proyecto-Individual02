@@ -2,7 +2,7 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`## Análisis del comportamiento del sector de las telecomunicaciones a nivel nacional: Tendencias, desafíos y oportunidades`**</h1>
+# <h1 align="center">**`Análisis del comportamiento del sector de las telecomunicaciones a nivel nacional: Tendencias, desafíos y oportunidades`**</h1>
 
 
 ## *Contexto*
@@ -12,9 +12,9 @@ Una empresa prestadora de servicios de telecomunicaciones nos ha encomendado un 
 Los KPIs a desarrollar son:
 
 + Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
-+ Porcentaje de localidades con acceso a internet en zonas rurales y remotas
-+ Velocidad promedio de conexión a internet en Argentina.
-+ 
++ Provincias con menor promedio de velocidad de internet por paquete
++ Promedio de velocidad en provincias remotas de 2019 contra 2022.
++ Ingresos por Provincia
 
 ## **Material Entregable**
 
@@ -32,6 +32,6 @@ Con formato .pdf, es un entregable ideal para presentar los resultados de los KP
 
 ## Fuentes:
 
-- [Dataset Principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) -se sugiere el uso de la API-
+- [Dataset Principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
 - [Dataset Secundario ](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165)
