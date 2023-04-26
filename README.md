@@ -11,10 +11,11 @@ Una empresa prestadora de servicios de telecomunicaciones nos ha encomendado un 
 
 Los KPIs a desarrollar son:
 
-+ Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. 
-+ Provincias con menor promedio de velocidad de internet por paquete
-+ Promedio de velocidad en provincias remotas de 2019 contra 2022.
-+ Ingresos por Provincia
++ Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, por cada 100 hogares, por provincia.
++ Analizar las provincias con menor promedio de velocidad de internet por paquete
++ Determinar el promedio de velocidad en provincias remotas de 2019 contra 2022.
++ Evaluar los Ingresos por provincia
+
 
 ## **Material Entregable**
 
