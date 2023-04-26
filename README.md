@@ -2,7 +2,7 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-# <h1 align="center">**`Analisis de las Telecomunicaciones en Argentina`**</h1>
+# <h1 align="center">**`## Análisis del comportamiento del sector de las telecomunicaciones a nivel nacional: Tendencias, desafíos y oportunidades`**</h1>
 
 
 ## *Contexto*
