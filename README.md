@@ -5,11 +5,13 @@
 # <h1 align="center">**`Análisis del comportamiento del sector de las telecomunicaciones a nivel nacional: Tendencias, desafíos y oportunidades`**</h1>
 
 
-## *Contexto*
+## *Resumen*
 
-Una empresa prestadora de servicios de telecomunicaciones nos ha encomendado un análisis exploratorio de los datos que permita reconocer el comportamiento a nivel nacional. Teniendo en cuenta los siguientes KPIs (Key Performance Indicator) podremos orientar a la empresa sobre como ofrecer una buena calidad en sus servicios, asi como identificar mercados a desarrollar, ademas de establecer soluciones especificas a los potenciales consumidores.
+El dashboard creado monitorea el progreso de los KPI y los ingresos trimestrales por la prestación del servicio de internet fijo.
+El acceso a internet en Argentina ha mejorado significativamente en provincias remotas en los últimos tres años. Las provincias con mayor de velocidad de internet son Buenos aires y Capital Federal y las de menor son La Rioja, Tierra del Fuego y Formosa. Tucumán tiene una mayor penetración de internet en los hogares y una economía en crecimiento, mientras que Formosa necesita políticas para expandir la conectividad.
 
-Los KPIs a desarrollar son:
+
+Los KPIs desarrollados son:
 
 + Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, por cada 100 hogares, por provincia.
 + Analizar las provincias con menor promedio de velocidad de internet por paquete
@@ -29,7 +31,7 @@ Con formato .pbix, se encuentra el dashboard con el analisis grafico de las KPIs
 
 `Resumen Ejecutivo`
 
-Con formato .pdf, es un entregable ideal para presentar los resultados de los KPIs que se muestran en el dashboard. Es un documento conciso que incluye los resultados más relevantes y las conclusiones más importantes.
+Con formato .pdf, presenta el analisis de los resultados de los KPIs que se muestran en el dashboard. Este documento que incluye los resultados más relevantes y las conclusiones más importantes de lo solicitado por la empresa de telecomunicaciones.
 
 ## Fuentes:
 
