@@ -38,3 +38,7 @@ Con formato .pdf, presenta el analisis de los resultados de los KPIs que se mues
 - [Dataset Principal](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
 - [Dataset Secundario ](https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165)
+
+## Integrantes:
++ Horacio Muñoz
++ Yina Sanchez 
